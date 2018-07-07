@@ -419,11 +419,11 @@ h2 {
     
     /* about me page  */
     .container {
-        max-width: 700px;
+        /* max-width:95%; */
     }
 
     .about-me-section {
-        max-width: 680px;
+        max-width:90%;
         margin-right: auto;
         margin-left: auto;
     }
@@ -438,6 +438,20 @@ h2 {
         padding: 0;
         margin-right: 0px;
         padding-bottom: 15px;
+    }
+
+    .portfolio-section {
+        width: 95%;
+        margin-right: auto;
+        margin-left: auto;
+        
+    }
+
+    .body-portfolio {
+        width: 95%;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 0;
     }
 
 }
