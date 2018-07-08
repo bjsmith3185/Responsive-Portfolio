@@ -136,7 +136,7 @@ h1 {
     width: 690px;
     margin-top: 60px;
     padding: 20px;
-    background: lightblue;
+    background: rgb(160, 157, 157);
     margin-bottom: 100px;
    
 }
@@ -218,7 +218,7 @@ h1 {
     width: 690px;
     margin-top: 60px;
     padding: 5px;
-    background: lightblue;
+    background: rgb(160, 157, 157);
     margin-bottom: 100px;
   
 }
@@ -455,6 +455,9 @@ h2 {
         padding-left: 0;
     }
 
+    .portfolio-link:nth-child(even) {
+        margin-right: 2%;
+    }
     
 }
 
@@ -490,7 +493,7 @@ h2 {
         width: 100%;
         text-align: center;
         display: block;
-        background: pink;
+        background: whitesmoke;
         border-bottom: 2px solid rgb(61, 148, 248);
     }
 
